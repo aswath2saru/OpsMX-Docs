@@ -12,14 +12,35 @@ Spinnaker is an open source, multi-cloud Continuous Delivery and Deployment plat
 
 Spinnaker can deploy to and manage clusters across Amazon Web Services (AWS), Kubernetes, and Google Cloud Platform (GCP). More functionality is being added all the time. For example, work is being done to improve integrations with all cloud the providers, including Cloud Foundry and Microsoft Azure.
 
+.. include:: ../README.rst
+
 .. toctree::
+   :caption: Theme Documentation
    :maxdepth: 2
-   :caption: Contents:
 
+   installing
+   configuring
+   contributing
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 1
+   :hidden:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   changelog
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Demo Documentation
+
+    demo/structure
+    demo/demo
+    demo/lists_tables
+    demo/api
+
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+    :caption: This is an incredibly long caption for a long menu
+
+    demo/long
