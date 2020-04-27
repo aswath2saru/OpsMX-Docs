@@ -10,7 +10,7 @@ Welcome to OpsMx-Docs's documentation!
 .. include:: ../README.rst
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: OpsMx Spinnaker Documentation
    :maxdepth: 2
 
    installing
