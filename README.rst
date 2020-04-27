@@ -2,7 +2,7 @@
 What Is Spinnaker:
 ******************
 .. image:: https://readthedocs.org/projects/sphinx-rtd-theme/badge/?version=latest
-  :target: http://sphinx-rtd-theme.readthedocs.io/en/latest/?badge=latest
+  :target: https://opsmx-docs.readthedocs.io/en/latest/
   :alt: Documentation Status
 
 Spinnaker is an open source, multi-cloud Continuous Delivery and Deployment platform that provides a single pane of glass with visibility across your deployment for deployment status, infrastructure, security and compliance, and metrics. By using pipelines, flexible and customizable series of deployment stages, Spinnaker can fit a variety of deployment needs.
