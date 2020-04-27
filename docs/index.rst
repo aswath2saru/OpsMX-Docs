@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to OpsMx Spinnaker Documentation!
-======================================
+==========================================
 
 
 .. include:: ../README.rst
